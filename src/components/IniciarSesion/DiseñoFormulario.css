@@ -1,0 +1,27 @@
+.contenedor-Div{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 90vh;
+}
+
+.contenedo-logo{
+  margin-bottom: -20px;
+}
+
+.contenedorLogin{
+  padding: 30px;
+  padding-top: 10px;
+  padding-bottom: 60px;
+  width:420px;
+  height: 600px;
+}
+
+.DivIniSesion{
+  margin-bottom: 5px;
+}
+
+/* Estilos adicionales para hacer el texto responsive */
+.contenedor-Login h1 {
+  font-size: 1em; /* Puedes ajustar el tamaño del texto según tus necesidades */
+}
